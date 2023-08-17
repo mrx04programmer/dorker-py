@@ -1,5 +1,5 @@
-from modules.colors import *
 import os, requests
+from modules.colors import *
 from modules.motor import Dork
 from platform import platform as pl
 attributesSpecific = ['-', '+', '"', 'site:']
